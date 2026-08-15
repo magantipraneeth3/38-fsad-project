@@ -263,7 +263,7 @@ The application is ready to run immediately with no backend setup required!
 npm install
 npm run dev
 ```
-
+# maganti parneeth chowdary
 Visit **http://localhost:3000** and start exploring!
 
 ---
