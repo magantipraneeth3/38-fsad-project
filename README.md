@@ -257,6 +257,8 @@ For questions or issues:
 
 ## 🎉 Ready to Use!
 
+
+
 The application is ready to run immediately with no backend setup required!
 
 ```bash
