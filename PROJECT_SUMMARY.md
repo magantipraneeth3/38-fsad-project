@@ -19,6 +19,7 @@ The complete web-based platform for educational webinars and workshops has been 
 - Responsive design with CSS styling
 - Modern component architecture
 
+
 **Key Components:**
 - `Header.jsx` - Navigation bar with user menu
 - `Footer.jsx` - Footer with links
