@@ -7,6 +7,7 @@ Your complete web-based educational webinars and workshops platform has been suc
 ---
 
 
+
 ## 📊 What Was Created
 
 ### Frontend (React + Vite) ✅
