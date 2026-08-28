@@ -261,6 +261,7 @@ For questions or issues:
 
 The application is ready to run immediately with no backend setup required!
 
+
 ```bash
 npm install
 npm run dev
