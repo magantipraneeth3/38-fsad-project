@@ -176,6 +176,7 @@ frontend/
 
 ---
 
+
 ## 🧪 Testing Scenarios
 
 ### Test User Registration & Login
