@@ -4,6 +4,7 @@ import './AdminDashboard.css'
 import AdminWebinars from '../pages/AdminWebinars'
 import AdminRegistrations from '../pages/AdminRegistrations'
 
+
 const AdminDashboard = () => {
   useRequireAuth('admin')
   const [activeTab, setActiveTab] = useState('webinars')
