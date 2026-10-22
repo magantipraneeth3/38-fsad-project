@@ -25,7 +25,6 @@ const AdminDashboard = () => {
             👥 View Registrations
           </button>
         </div>
-
         <div className="tab-content">
           {activeTab === 'webinars' && <AdminWebinars />}
           {activeTab === 'registrations' && <AdminRegistrations />}
