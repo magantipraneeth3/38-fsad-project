@@ -7,7 +7,6 @@ const AdminRegistrations = () => {
   const [selectedWebinar, setSelectedWebinar] = useState('')
   const [registrations, setRegistrations] = useState([])
   const [loading, setLoading] = useState(false)
-
   useEffect(() => {
     fetchWebinars()
   }, [])
